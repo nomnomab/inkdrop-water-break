@@ -13,4 +13,5 @@ No interaction is required to set this up! Simply open the app and it will start
 ![Demonstration GIF](/~images/demonstration.gif)
 
 # Changelog
+- 0.1.1 - Removed the menu item that did nothing via the `plugins` menu
 - 0.1.0 - First release

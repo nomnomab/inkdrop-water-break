@@ -7,20 +7,5 @@
       }
     ]
   },
-  "menu": [
-    {
-      "label": "Plugins",
-      "submenu": [
-        {
-          "label": "water-break",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "water-break:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "menu": []
 }
