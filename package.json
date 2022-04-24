@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Reminds the user to hydrate!",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/water-break",
+  "repository": "https://github.com/nomnomab/inkdrop-water-break",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
