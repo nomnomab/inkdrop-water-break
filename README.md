@@ -13,4 +13,4 @@ No interaction is required to set this up! Simply open the app and it will start
 ![Demonstration GIF](/~images/demonstration.gif)
 
 # Changelog
-- 0.0.0 - First release
+- 0.1.0 - First release
