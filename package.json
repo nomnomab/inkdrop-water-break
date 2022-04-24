@@ -1,7 +1,7 @@
 {
   "name": "water-break",
   "main": "./lib/water-break",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reminds the user to hydrate!",
   "keywords": [],
   "repository": "https://github.com/nomnomab/inkdrop-water-break",
