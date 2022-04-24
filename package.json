@@ -1,0 +1,13 @@
+{
+  "name": "water-break",
+  "main": "./lib/water-break",
+  "version": "0.0.0",
+  "description": "Reminds the user to hydrate!",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/water-break",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
